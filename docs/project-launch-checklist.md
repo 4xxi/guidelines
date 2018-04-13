@@ -21,7 +21,7 @@
 
 ## Техническая часть
 
-* Создать репозиторий (dev-ops)
+* Создать репозиторий (Dev Ops)
 * Создать скелет проекта (Backend+Frontend)
 * Настроить CI/CD
   * Создать проект (Dev Ops)
@@ -29,6 +29,8 @@
   * Настроить деплой develop на DEV server через CD
   * Настроить деплой master на PROD server через CD
   * Отключить прямые пуши в master (Backend)
-* Добавить авточекеры кода (Backend, Frontend)
+  * Настроить нотификации о деплоях в Slack (Dev Ops)
+  * Добавить авточекеры кода (Backend, Frontend)
+* Настроить логирование в Papertrail и алерты в Slack (Dev Ops, Backend)
 
 ## Управленческая часть
