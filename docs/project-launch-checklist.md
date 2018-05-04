@@ -30,5 +30,6 @@
   * Настроить деплой master на PROD server через CD
   * Отключить прямые пуши в master (Backend)
 * Добавить авточекеры кода (Backend, Frontend)
+* Настроить git-flow на проекте (создать master & develop)
 
 ## Управленческая часть
