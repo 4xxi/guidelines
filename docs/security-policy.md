@@ -18,7 +18,7 @@
 ## Передача информации
 * Не передавать информацию, содержащую код, конфигурацию, доступы или личные данные в открытом виде.
 * Использовать для передачи доступов https://vault.4xxi.com/.
-* Использовать для передачи скриншотов, хранилище, доступ к которому контролируется компанией (https://phabricator.4xxi.com/w/administration/instructions/amazon/).
+* Использовать для передачи скриншотов, [хранилище](https://phabricator.4xxi.com/w/administration/instructions/amazon/), доступ к которому контролируется компанией.
 ## Разработка
 * Следовать [рекомендациям OWASP](https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
 ## BYOD
