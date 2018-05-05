@@ -30,3 +30,7 @@
 ### Релиз проекта
 
 * [Перед запуском нового проекта](docs/project-launch-checklist.md)
+
+# Разное
+
+* [Глоссарий](docs/glossary.md)
