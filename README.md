@@ -23,6 +23,10 @@
 
 * [Scrum vs Waterfall: pro & cons](https://blogru.4xxi.com/scrum-против-waterfall-лучше-ли-старый-друг-755de56d3fe3?source=collection_home---4------13----------------)
 
+## Ожидания от сотрудников
+
+* [Общие ожидания от специалистов](docs/employee-expectations)
+
 ## Разное
 
 * [Книги для прочтения](docs/books.md)
