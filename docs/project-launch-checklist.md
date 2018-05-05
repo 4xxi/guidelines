@@ -18,6 +18,7 @@
   * Добавить команду в проект (Dev Ops)
   * Добавить фильтры Open (=Open, Reopened, In Progress), R (Resolved), R+C (Resolved, QA, Closed) - (PM)
 * Создать проект в InvisionApp & Zeplin (PM)
+* Создать общую папку в Google Drive и расшарить её на команду (PM). Owner'ом должен быть CEO или VP.
 
 ## Техническая часть
 
