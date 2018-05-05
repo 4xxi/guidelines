@@ -1,8 +1,21 @@
-# Стандарты менеджмента 4xxi
+# Стандарты 4xxi
 
-## Стандарты
+## Менеджмент
+
+* [Правила работы менеджера](docs/managers-rules.md)
+
+
+### Стандарты
 
 * [Как правильно составлять спецификации](https://blogru.4xxi.com/как-правильно-составлять-спецификации-c2c146130c65)
+
+### Аналитика
+
+* [Scrum vs Waterfall: pro & cons](https://blogru.4xxi.com/scrum-против-waterfall-лучше-ли-старый-друг-755de56d3fe3?source=collection_home---4------13----------------)
+
+## Разное
+
+* [Книги для прочтения](docs/books.md)
 
 ### Безопасность на проектах
 
@@ -14,14 +27,6 @@
 
 * [Чеклист для выполнения перед запуском нового проекта](docs/project-launch-checklist.md)
 
-## Чеклисты
+### Релиз проекта
 
 * [Перед запуском нового проекта](docs/project-launch-checklist.md)
-
-## Аналитика
-
-* [Scrum vs Waterfall: pro & cons](https://blogru.4xxi.com/scrum-против-waterfall-лучше-ли-старый-друг-755de56d3fe3?source=collection_home---4------13----------------)
-
-## Разное
-
-* [Книги для прочтения](docs/books.md)
