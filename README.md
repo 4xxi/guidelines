@@ -9,6 +9,7 @@
 
 * [Как быть хорошим куратором?](docs/development/curators.md)
 * [Полезные сайты для PHP-разработчиков](docs/development/links.md)
+* [Полезные видео для PHP-разработчиков](docs/development/videos.md)
 
 ## Менеджерам
 
