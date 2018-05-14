@@ -9,3 +9,7 @@
 
 * [(англ) Рекомендации от консалтиноговой фирмы ParagonIE для PHP в 2018](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 * [(англ) Сайт со статьями по безопасности для Web и PHP в процессе написания](http://phpsecurity.readthedocs.io/en/latest/)
+
+## Документация и комментирование кода
+
+* [(англ) Рационалость использования DocBlocks](https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/)
