@@ -7,9 +7,9 @@
 
 В одном предложении надо уместить смысл всего баг-репорта, а именно: коротко и ясно, используя правильную терминологию сказать что не работает, по принципу Что? Где? Когда? [Над какой feature работаете?] Где - произошла - ошибка?: Что произошло? Когда/при каких условиях? 
 
-_Пример, [GDL] Participant can't edit the GDL task, Web_
+_Например, [Статьи] Пользователь не может отредактировать свою статью, веб_
 
-3. Приоритет (Priority) - Blocker, Critical, Medium, Minor. Как правильно определить приоритет - [тут](bugs-priorities.md). 
+3. Приоритет (Priority) - Blocker, Critical, Medium, Minor. [Инструкция по определению приоритета бага](bugs-priorities.md). 
 4. Ответственный (Assignee)
 5. Описание баг-репорта (Description):
  - предварительные условия / шаги (Preconditions),
@@ -19,6 +19,7 @@ _Пример, [GDL] Participant can't edit the GDL task, Web_
  - логи, скриншоты, видео-скриншоты, ссылки (на отчеты об ошибке, на стори или спецификации).
 
  Пример описания бага:
- http://scr.4xxi.com/asyrkovsky/CEN-15875_GDL_Participant_cant_edit_the_GDL_task_Web_-_JIRA_4xxi_2018-06-14_19-02-22.png
+ 
+![Bug example](http://scr.4xxi.com/asyrkovsky/My_Drive_-_Google_Drive_2018-06-14_23-52-11.png)
  
  
