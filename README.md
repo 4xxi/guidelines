@@ -13,6 +13,7 @@
 ## Менеджерам
 
 * [Правила работы менеджера](docs/management/managers-rules.md)
+* [Частые ошибки менеджеров](docs/management/managers-mistakes.md)
 * [Возможные риски на проекты и как их отрабатывать](docs/management/risks-list.md)
 
 ### Аналитика
