@@ -18,7 +18,6 @@
     * [Как поставить приоритет багу](docs/management/bugs-priorities.md)
     * [Как проводить релиз продукта](docs/management/how-to-release.md)
     * [Структура отчёта менеджера](docs/management/report-structure.md)
-    * [Риски и как их обойти](docs/management/risks-list.md)
 * [Возможные риски на проекты и как их отрабатывать](docs/management/risks-list.md)
 
 ### Аналитика
